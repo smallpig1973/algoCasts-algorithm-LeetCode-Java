@@ -1,4 +1,4 @@
-# AlgoCasts-algorithm-LeetCode LeetCode-AlgoCasts算法 面试 刷题 Java LeetCode刷题
+# AlgoCasts-algorithm
 AlgoCasts algorithm-LeetCode-AlgoCasts算法-完结
 
 ## 资源截图
